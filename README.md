@@ -1,4 +1,4 @@
-1. Nama   : Aco Wahyudi
+1. Nama   : Faza
    NIM    : H2020000001
    JK     : Laki - Laki
    Agama  : Islam
